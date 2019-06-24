@@ -153,11 +153,21 @@ header .current a{
     float:left;
     text-align: center;
     width:30%;
-    padding: 10px;
+    padding-top: 15px;
+    padding-left:auto;
+    padding-right:auto;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+}
+/*Hovers over the icon*/
+#boxes .box:hover{
+    background-color: #9E9E9E;
+    border-radius: 15px;
+    box-sizing: border-box;
 }
 
 #boxes .box img{
-    width: 90px;
+    width: 94px;
 }
 /*side bar*/
 aside#sidebar{
