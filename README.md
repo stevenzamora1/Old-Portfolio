@@ -1,2 +1,2 @@
-# Portfolio
-This is a website I made to showcase me and my projects.
+# Old Portfolio
+This used to be a website I used to showcase what I did. I stopped midway through because I figured I could use bootstrap.
